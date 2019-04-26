@@ -1,2 +1,7 @@
 # hello-world
-Just to learn how to start github
+
+
+Hi Hmans!
+
+Hubot here, I like Node. GitHub is really a good way to work.
+
